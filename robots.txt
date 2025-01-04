@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://yurinanakazato.github.io/temp//sitemap.xml
+User-agent: * Disallow: Sitemap: https://yurinanakazato.github.io/portfolio//sitemap.xml
