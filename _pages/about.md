@@ -9,7 +9,7 @@ profile:
   image: profile_nakazato.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 Science Building 1 </p>
+    <p>Science Building 1 </p>
     <p>123 7-3-1, Hongo </p>
     <p>Your Tokyo, Japan </p>
 
