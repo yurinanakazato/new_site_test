@@ -2,28 +2,28 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Yurina Nakazato
     - name: Date of Birth
-      value: 14th March 1879
+      value: 7th February 1999
     - name: Languages
-      value: English, German
+      value: Japanese, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. candidate
+      institution: The University of Tokyo, Japan
+      year: 03.2023-present
       description:
         - Description 1.
         - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+      - title: M.S. in Physics
+        contents:
+          - The University of Tokyo, Japan (Supervisor: [Naoki Yoshida](http://www-utap.phys.s.u-tokyo.ac.jp/naoki.yoshida/))   
+          - Thesis: [Formation and evolution of star clusters and galaxies in the early Universe](http://www-utap.phys.s.u-tokyo.ac.jp/Theses/M_Nakazato.pdf)
+    - title: B.S. in Physics
+      institution: The University of Tokyo, Japan 
+      year: 04.2017-03.2021 
       description:
         - Description 1.
         - Description 2.
