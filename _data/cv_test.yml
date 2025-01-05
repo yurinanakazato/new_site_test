@@ -13,18 +13,22 @@
   contents:
     - title: Ph.D. candidate
       institution: The University of Tokyo, Japan
-      year: 04.2023-present
+      year: 03.2023-present
       description:
-        - Researching high-redshift galaxies using cosmological simulations.
+        - Researching high-redshift galaxies and astrophysical simulations.
     - title: M.S. in Physics
       institution: The University of Tokyo, Japan
       year: 04.2021-03.2023
       description:
-        - Supervisor: [Naoki Yoshida](http://www-utap.phys.s.u-tokyo.ac.jp/naoki.yoshida/)
-        - Thesis: [Formation and evolution of star clusters and galaxies in the early Universe](http://www-utap.phys.s.u-tokyo.ac.jp/Theses/M_Nakazato.pdf)
+        - Supervisor: |
+            <a href="http://www-utap.phys.s.u-tokyo.ac.jp/naoki.yoshida/">Naoki Yoshida</a>
+        - Thesis: |
+            <a href="http://www-utap.phys.s.u-tokyo.ac.jp/Theses/M_Nakazato.pdf">
+            Formation and evolution of star clusters and galaxies in the early Universe</a>
     - title: B.S. in Physics
       institution: The University of Tokyo, Japan
-      year: 04.2017-03.2021  
+      year: 04.2017-03.2021
+
       
 - title: Work Experience
   type: time_table
@@ -51,24 +55,23 @@
   type: time_table
   contents:
     - year: 02.2024
-      items:
+      title:
         - __Poster Award at International Symposium on Quantum Electronics__  
-          Awarded JSR poster award by JSR Corporation, who sponsors the symposium.  
-          <a href="https://www.tsqs2024.org">Symposium link</a>
+        - Awarded JSR poster award by JSR Corporation, who sponsors the symposium. <a href="https://www.tsqs2024.org">Symposium link</a>
     - year: 04.2023-present
       items:
         - __JSR fellowship__  
-          Awarded JSR Corporation Fellowship.  
-          <a href="https://curie.phys.s.u-tokyo.ac.jp/en/fellowship/">JSR Fellowship Link</a>
+        - Awarded JSR Corporation Fellowship. <a href="https://curie.phys.s.u-tokyo.ac.jp/en/fellowship/">JSR Fellowship Link</a>
     - year: 04.2023-present
       items:
         - __Japan Society for Promotion of Science (JSPS) Research Fellow, DC1__  
-          <a href="https://www.jsps.go.jp/english/e-pd/index.html">JSPS Fellowship Link</a>
+        - <a href="https://www.jsps.go.jp/english/e-pd/index.html">JSPS Fellowship Link</a>
     - year: 03.2023
       items:
-        - __The School of Science Encouragement Award__  
-          Awarded due to excellent academic performance and master thesis (_Rank: 1/128_).  
-          <a href="https://www.phys.s.u-tokyo.ac.jp/award/37776/">Award Link</a>
+        - |
+        __The School of Science Encouragement Award__  
+        Awarded due to excellent academic performance and master thesis (_Rank: 1/128_).  
+        <a href="https://www.phys.s.u-tokyo.ac.jp/award/37776/">Award Link</a>
     - year: 03.2023
       items:
         - __The University of Tokyo President's Award__  
