@@ -1,97 +1,63 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Yurina Nakazato
-    - name: Date of Birth
-      value: 7th February 1999
-    - name: Languages
-      value: Japanese, English
-
-- title: Education
+- title: Work Experience
   type: time_table
   contents:
-    - title: Ph.D. candidate
-      institution: The University of Tokyo, Japan
-      year: 03.2023-present
+    - title: Outsourcing for AI Company
+      institution: Polaris AI
+      year: 02.2024-present
       description:
-        - Description 1.
-        - Description 2.
-      - title: M.S. in Physics
-        contents:
-          - The University of Tokyo, Japan (Supervisor: [Naoki Yoshida](http://www-utap.phys.s.u-tokyo.ac.jp/naoki.yoshida/))   
-          - Thesis: [Formation and evolution of star clusters and galaxies in the early Universe](http://www-utap.phys.s.u-tokyo.ac.jp/Theses/M_Nakazato.pdf)
-    - title: B.S. in Physics
-      institution: The University of Tokyo, Japan 
-      year: 04.2017-03.2021 
+        - Working on AI-related projects and research.
+        - <a href="https://polarisai.co.jp">Polaris AI</a>
+    - title: Teaching Assistant
+      institution: The University of Tokyo
+      year: 04.2021-08.2021
       description:
-        - Description 1.
-        - Description 2.
+        - Assisted in fluid mechanics class for undergraduate students majoring in physics and astronomy.
+    - title: Language Assistant
+      institution: The University of Tokyo
+      year: 04.2019-present
+      description:
+        - Supporting international students at the University of Tokyo.
+        - Organizing international exchange programs weekly.
 
-- title: Experience
+- title: Awards
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
+    - year: 02.2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - __Poster Award at International Symposium on Quantum Electronics__  
+          Awarded JSR poster award by JSR Corporation, who sponsors the symposium.  
+          <a href="https://www.tsqs2024.org">Symposium link</a>
+    - year: 04.2023-present
       items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
+        - __JSR fellowship__  
+          Awarded JSR Corporation Fellowship.  
+          <a href="https://curie.phys.s.u-tokyo.ac.jp/en/fellowship/">JSR Fellowship Link</a>
+    - year: 04.2023-present
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - __Japan Society for Promotion of Science (JSPS) Research Fellow, DC1__  
+          <a href="https://www.jsps.go.jp/english/e-pd/index.html">JSPS Fellowship Link</a>
+    - year: 03.2023
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - __The School of Science Encouragement Award__  
+          Awarded due to excellent academic performance and master thesis (_Rank: 1/128_).  
+          <a href="https://www.phys.s.u-tokyo.ac.jp/award/37776/">Award Link</a>
+    - year: 03.2023
+      items:
+        - __The University of Tokyo President's Award__  
+          Selected as one of two out of 3,000 master students at the University of Tokyo.  
+          <a href="https://www.phys.s.u-tokyo.ac.jp/award/37776/">Award Link</a>
+    - year: 03.2023
+      items:
+        - __The Excellence Award for Qualifying Exam__  
+          Awarded due to excellent research proposals and oral defense.  
+          <a href="https://www.s.u-tokyo.ac.jp/en/IGPEES/news/2023-01.html">Award Link</a>
+    - year: 10.2021-present
+      items:
+        - __The International Graduate Program for Excellence in Earth-Space Science (IGPEES)__  
+          Research Assistant at the University of Tokyo.  
+          <a href="https://www.s.u-tokyo.ac.jp/en/IGPEES/index.html">IGPEES Link</a>
+    - year: 08.2021
+      items:
+        - __Best Oral Presentation Award at 51st Astronomical Meeting for Junior Researchers__  
+          Awarded The Best Oral Presentation by star and planet formation subcommittee.  
+          <a href="https://astro-wakate.sakura.ne.jp/ss2021/oralawards/">Award Link</a>
