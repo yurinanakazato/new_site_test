@@ -1,3 +1,33 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Yurina Nakazato
+    - name: Date of Birth
+      value: 7th February 1999
+    - name: Languages
+      value: Japanese, English
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. candidate
+      institution: The University of Tokyo, Japan
+      year: 03.2023-present
+      description:
+        - Researching high-redshift galaxies and astrophysical simulations.
+    - title: M.S. in Physics
+      institution: The University of Tokyo, Japan
+      year: 04.2021-03.2023
+      description:
+        - Supervisor: [Naoki Yoshida](http://www-utap.phys.s.u-tokyo.ac.jp/naoki.yoshida/)
+        - Thesis: [Formation and evolution of star clusters and galaxies in the early Universe](http://www-utap.phys.s.u-tokyo.ac.jp/Theses/M_Nakazato.pdf)
+    - title: B.S. in Physics
+      institution: The University of Tokyo, Japan
+      year: 04.2017-03.2021
+      description:
+        - Specialized in astrophysics and observational cosmology.
+
 - title: Work Experience
   type: time_table
   contents:
@@ -61,3 +91,27 @@
         - __Best Oral Presentation Award at 51st Astronomical Meeting for Junior Researchers__  
           Awarded The Best Oral Presentation by star and planet formation subcommittee.  
           <a href="https://astro-wakate.sakura.ne.jp/ss2021/oralawards/">Award Link</a>
+
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/yurina-nakazato/dusty-galaxy-simulation">Dusty Galaxy Simulation</a>
+      year: 2023-now
+      description: AI-driven simulation models for high-redshift galaxy formation.
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Galaxy Formation and Evolution
+      items:
+        - High-redshift galaxies
+        - Dusty outflows and feedback processes
+    - title: Cosmological Simulations
+      items:
+        - FirstLight simulations
+        - AI surrogate models in astrophysics
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Hiking, Astrophotography, Reading Sci-fi.
