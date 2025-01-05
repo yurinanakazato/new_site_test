@@ -1,12 +1,12 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Yurina Nakazato
-    - name: Date of Birth
-      value: 7th February 1999
-    - name: Languages
-      value: Japanese, English
+#- title: General Information
+#  type: map
+#  contents:
+#    - name: Full Name
+#      value: Yurina Nakazato
+#    - name: Date of Birth
+#      value: 7th February 1999
+#    - name: Languages
+#      value: Japenese, English
 
 - title: Education
   type: time_table
