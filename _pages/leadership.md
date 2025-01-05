@@ -1,3 +1,12 @@
+---
+layout: page
+permalink: /leadership/
+title: Leadership and others
+description: Materials for courses you taught. Replace this text with your description.
+nav: true
+nav_order: 6
+---
+
 ## Leadership & Outreach  
 - 2023.6: __Get-Together Event for Women in STEM__  
 Organized a 'get together' event to promoted the interaction between female STEM researchers at U-Tokyo.  
