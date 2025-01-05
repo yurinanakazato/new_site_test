@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Ph.D. student @<a href='https://www.phys.s.u-tokyo.ac.jp/en/'>The University of Tokyo, Department of Physics</a>.
 
 profile:
   align: right
@@ -24,12 +24,12 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Hi I am Yurina Nakazato (仲里佑利奈). I am 4th year Ph.D. student at [the University of Tokyo Theoretical Astrophysics (UTAP)](http://www-utap.phys.s.u-tokyo.ac.jp/index.html) in [Department of Physics, Graduate School of Science](https://www.phys.s.u-tokyo.ac.jp/en/),[the University of Tokyo](https://www.u-tokyo.ac.jp/en/). 
+Hi I am Yurina Nakazato (仲里佑利奈). I am 4th year Ph.D. student at [the University of Tokyo Theoretical Astrophysics (UTAP)](https://www-utap.phys.s.u-tokyo.ac.jp/index.html) in [Department of Physics, Graduate School of Science](https://www.phys.s.u-tokyo.ac.jp/en/),[the University of Tokyo](https://www.u-tokyo.ac.jp/en/). 
 
 ## Research Interest  
 * First star formation  
   (considering the effect of Stream Velocity)
-  See the Supersonic Project [website](https://www.astro.ucla.edu/~snaoz/TheSupersonicProject/People.html) and our [press release](https://newsroom.ucla.edu/releases/dark-matter-reveal-bright-galaxies-beginning-of-time?preview=2528)!
+  See the Supersonic Project [website](https://www.astro.ucla.edu/~snaoz/TheSupersonicProject/index.html) and our [press release](https://newsroom.ucla.edu/releases/dark-matter-reveal-bright-galaxies-beginning-of-time?preview=2528)!
   
 
 * High-redshift galaxies    
