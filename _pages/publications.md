@@ -3,16 +3,12 @@ layout: page
 permalink: /publications/
 title: Publications
 description: Previous and ongoing works
-years: [2024,2023,2022]
 nav: true
-nav_order: 1
+nav_order: 2
 ---
 <!-- _pages/publications.md -->
 <div class="publications">
+For my full and update publication list see <a href="https://ui.adsabs.harvard.edu/public-libraries/e1XvdN4yTZK3_QI5SHf3fA">SAO/NASA ADS</a>.
 
-{%- for y in page.years %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}}]* %}
-{% endfor %}
-
+{% bibliography %}
 </div>
