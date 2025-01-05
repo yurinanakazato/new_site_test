@@ -77,12 +77,12 @@ github_username:
 gitlab_username: # your GitLab user name
 x_username: 
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: # your LinkedIn user name
+linkedin_username: 佑利奈-仲里-a2442b1b2 # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: 
 semanticscholar_id: 
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: # your ORCID ID
+orcid_id: 0000-0002-0984-7713 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
