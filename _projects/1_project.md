@@ -17,7 +17,7 @@ Additionally, we propose line diagnostics by using [OIII] 88um, 52um, and 5007 Ã
 <!-- <img src="/images/research/FL964_projection_ver0.png" width="50%" height="auto"> -->
 
 
-<img src="/assets/img/FL964_projection_ver0.png" width="48%" height="auto"> <img src="/images/research/MZR.png" alt="mass metallicity relations" width="48%"/>
+<img src="/assets/img/FL964_projection_ver0.png" width="48%" height="auto"> <img src="/assets/img/MZR.png" alt="mass metallicity relations" width="48%"/>
 
 
 Recent JWST has high spatial resolution observations and reveals that high-redshift galaxies have clumpy structures of the early Universe. [Nakazato et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024arXiv240208911N/abstract) develop an algorithm to identify giant young clumps detectable by JWST. 
