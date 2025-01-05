@@ -13,9 +13,9 @@
   contents:
     - title: Ph.D. candidate
       institution: The University of Tokyo, Japan
-      year: 03.2023-present
+      year: 04.2023-present
       description:
-        - Researching high-redshift galaxies and astrophysical simulations.
+        - Researching high-redshift galaxies using cosmological simulations.
     - title: M.S. in Physics
       institution: The University of Tokyo, Japan
       year: 04.2021-03.2023
@@ -24,16 +24,14 @@
         - Thesis: [Formation and evolution of star clusters and galaxies in the early Universe](http://www-utap.phys.s.u-tokyo.ac.jp/Theses/M_Nakazato.pdf)
     - title: B.S. in Physics
       institution: The University of Tokyo, Japan
-      year: 04.2017-03.2021
-      description:
-        - Specialized in astrophysics and observational cosmology.
-
+      year: 04.2017-03.2021  
+      
 - title: Work Experience
   type: time_table
   contents:
     - title: Outsourcing for AI Company
       institution: Polaris AI
-      year: 02.2024-present
+      year: 02.2024-03.2024
       description:
         - Working on AI-related projects and research.
         - <a href="https://polarisai.co.jp">Polaris AI</a>
@@ -44,7 +42,7 @@
         - Assisted in fluid mechanics class for undergraduate students majoring in physics and astronomy.
     - title: Language Assistant
       institution: The University of Tokyo
-      year: 04.2019-present
+      year: 04.2019-03.2024
       description:
         - Supporting international students at the University of Tokyo.
         - Organizing international exchange programs weekly.
@@ -91,27 +89,3 @@
         - __Best Oral Presentation Award at 51st Astronomical Meeting for Junior Researchers__  
           Awarded The Best Oral Presentation by star and planet formation subcommittee.  
           <a href="https://astro-wakate.sakura.ne.jp/ss2021/oralawards/">Award Link</a>
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/yurina-nakazato/dusty-galaxy-simulation">Dusty Galaxy Simulation</a>
-      year: 2023-now
-      description: AI-driven simulation models for high-redshift galaxy formation.
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Galaxy Formation and Evolution
-      items:
-        - High-redshift galaxies
-        - Dusty outflows and feedback processes
-    - title: Cosmological Simulations
-      items:
-        - FirstLight simulations
-        - AI surrogate models in astrophysics
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hiking, Astrophotography, Reading Sci-fi.
