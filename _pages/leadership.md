@@ -36,7 +36,7 @@ Joined as a panelist to present a research project at [Dow Chemical Japan](https
     * Funded by the High Energy Accelerator Research Organization.
     * Experiment of measuring muon decay time and observing Lamor Precession and Single-Spin Asymmetries. Made the final presentation and poster session.
 
-* 2019.8: __[Nanotechnology Platform Student Training Program](https://www.nanonet.go.jp/pages/gakusei/2019/)__
+* 2019.8: __[Nanotechnology Platform Student Training Program]__
     * Funded by National Institute for Materials Science.
     * Five-day research program at Spring-8, the world’s largest third-generation synchrotron radiation facility. Conducted X-ray photoelectron spectroscopy (XPS) experiments and data analysis. Made a presentation at the University of Tokyo in September.
 
@@ -45,6 +45,6 @@ Joined as a panelist to present a research project at [Dow Chemical Japan](https
     * Five-week science & engineering research internship at [Gerts lab](http://fis-archive.rice.edu/facultyaaab.html), Rice University, Houston. Researched and analyzed the heavy iron collision data of STAR experiment conducted at BNL. 
     * Final week study tour to Washington, DC including site visits to the Society for the Promotion of Science, JAXA, U.S.-Japan Council, and Women in STEM Workshop at Leihigh University.
  
-* 2014.7-8: __[Okinawa Global Leaders Program](http://eil.sakura.ne.jp/opsac/short.html)__
+* 2014.7-8: __[Okinawa Global Leaders Program]__
     * Funded by Okinawa Prefectural Board of Education
     * Three-week program to introduce students to key concepts in intercultural communication and global leadership
