@@ -29,7 +29,7 @@ Hi I am Yurina Nakazato (仲里佑利奈). I am 4th year Ph.D. student at [the U
 ## Research Interest  
 * First star formation  
   (considering the effect of Stream Velocity)
-  See the Supersonic Project [website](https://www.astro.ucla.edu/~snaoz/TheSupersonicProject/index.html) and our [press release](https://newsroom.ucla.edu/releases/dark-matter-reveal-bright-galaxies-beginning-of-time?preview=2528)!
+  See the Supersonic Project and our [press release](https://newsroom.ucla.edu/releases/dark-matter-reveal-bright-galaxies-beginning-of-time?preview=2528)!
   
 
 * High-redshift galaxies    
