@@ -23,7 +23,7 @@ Joined as a panelist to present a research project at [Dow Chemical Japan](https
 ## Research and International experience
 * 2020.6-2021.3: __[Study and Visit Abroad Program](https://www.s.u-tokyo.ac.jp/ja/offices/ilo/svap/application.html)__
     * Funded by the faculty of science, the University of Tokyo
-    * Online reserach internship at [Naoz lab](https://www.astro.ucla.edu/~snaoz/), UCLA.
+    * Online reserach internship at Prof. Smadar Naoz group, UCLA.
 
 * 2019.12-2020.1: __Online Language Exchange Program - Utokyo & TUM-__
     * Participated in an online international exchange program with students from Technical University of Munich
